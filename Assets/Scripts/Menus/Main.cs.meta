@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2d5167b4f343ce8499fc31ab7185746f
+timeCreated: 1434572438
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MainMenu: {instanceID: 0}
+  - Shop: {instanceID: 0}
+  - Options: {instanceID: 0}
+  - Map: {instanceID: 0}
+  - currentLife: {instanceID: 0}
+  - currentMoney: {instanceID: 0}
+  - currentShield: {instanceID: 0}
+  - currentLevel: {instanceID: 0}
+  - xpBar: {instanceID: 0}
+  - player: {fileID: 11400000, guid: e3b5a9d32cd80024cb306aa77709016d, type: 2}
+  - playerStatus: {fileID: 11434322, guid: 8318c85ade1038a428f1cf2d689cfaa3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

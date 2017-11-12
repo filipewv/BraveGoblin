@@ -1,0 +1,34 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 9.18.13.5012]
+    Renderer: NVIDIA GeForce GTX 760
+    Vendor:   NVIDIA
+    VRAM:     1987 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\System.Core.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1713)
+
+Platform assembly: C:\Users\Filipe\Desktop\BlockDown\blockDown_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.848845 ms
+System memory in use before: 12.3 MB.
+System memory in use after: 12.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.284533 ms (FindLiveObjects: 0.028355 ms CreateObjectMapping: 0.030311 ms MarkObjects: 0.188711 ms  DeleteObjects: 0.031288 ms)
+
